@@ -1,2 +1,2 @@
 ﻿
-Console.WriteLine("Hello, World! from Stage");
+Console.WriteLine("Hello, World! from Master");
