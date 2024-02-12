@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace test
 {
-    public class Peron
+    public class Person
     {
         public PeronGender Gender { get; set; }
         public int Age { get; set; }
