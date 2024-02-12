@@ -5,7 +5,11 @@ using System.Threading.Tasks;
 
 namespace test
 {
+<<<<<<< HEAD
     public class Person
+=======
+    public class Peron
+>>>>>>> stage
     {
         public PeronGender Gender { get; set; }
         public int Age { get; set; }
